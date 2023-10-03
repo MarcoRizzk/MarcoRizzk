@@ -42,4 +42,4 @@ Let's Connect
 
 [marcosamirrizk@gmail.com](mailto:marcosamirrizk@gmail.com)
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" width="32" height="32">](https://www.linkedin.com/in/marco-rizk-8a020b270/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" width="32" height="32">](https://www.linkedin.com/in/marco-rizk/)
