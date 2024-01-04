@@ -31,6 +31,7 @@ My boundless enthusiasm infuses every project with an electric energy, propellin
 - **Angular Material**
 - **SQl**
 - **NoSQl**
+- **Electron**
 
 ### Let's Collaborate 🤝
 
