@@ -46,4 +46,3 @@ Campground management platform with location, pricing, reviews, and secure authe
 
 📧 [marcosamirrizk@gmail.com](mailto:marcosamirrizk@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/marco-rizk/)  
-💻 [GitHub](https://github.com/MarcoRizzk)  
